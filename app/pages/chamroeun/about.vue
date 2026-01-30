@@ -1,10 +1,10 @@
 <template>
-  <div class="flex gap-2">
+  <div class="flex flex-col gap-2">
+    <HomeButton />
     <div>
       email: tunchamroeun@cloudware.com.kh <br>
       tel: 096 4962424
     </div>
-    <HomeButton />
 
     <UButton
       target="_blank"
